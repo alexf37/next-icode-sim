@@ -1,1 +1,1 @@
-# icode simulator
+# toy isa simulator
